@@ -1,0 +1,7 @@
+#include "./Carre.hpp"
+#include "./Cercle.hpp"
+#include "./Cylindre.hpp"
+#include "./Point.hpp"
+#include "./Point3D.hpp"
+#include "./Rectangle.hpp"
+#include "./Sphere.hpp"
